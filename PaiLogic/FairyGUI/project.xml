@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projectDescription name="PTLogicParty" type="Unity" id="6b08c4b99cd1054d0bd56a4ace6d54a9">
+  <packages>
+    <package id="tpqhr3qp" name="CommonRes"/>
+    <package id="t77guuns" name="LoginWnd"/>
+  </packages>
+  <textSetting font="宋体" size="12" color="#000000"/>
+  <scrollBars vertical="" horizontal="" defaultDisplay="visible"/>
+  <colorScheme value="RED #FF0000&#xD;&#xA;GREEN #00FF00&#xD;&#xA;BLUE #0000FF&#xD;&#xA;GRAY #666666&#xD;&#xA;DRAKGRAY #9D9D9D"/>
+  <fontSizeScheme value="TitleSize 30&#xD;&#xA;SecTitleSize 20"/>
+</projectDescription>

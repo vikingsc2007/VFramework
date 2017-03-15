@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2910232923
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uiprefab_project_putaogame
+      Dependencies: {}
+    Info_1:
+      Name: gaf_example_project_putaogame
+      Dependencies: {}
+    Info_2:
+      Name: fairygui_commonres_project_putaogame
+      Dependencies: {}
+    Info_3:
+      Name: fairygui_loginwnd_project_putaogame
+      Dependencies: {}
+    Info_4:
+      Name: db_example_project_putaogame
+      Dependencies: {}

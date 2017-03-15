@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400" opaque="false">
+  <displayList>
+    <graph id="n3" name="n3" xy="0,90" size="400,283" type="rect" lineColor="#ff333333" fillColor="#ff333333"/>
+    <graph id="n1" name="n1" xy="107,360" pivot="0.5,1" anchor="true" size="100,100" type="rect" corner="20"/>
+    <graph id="n2" name="n2" xy="284,249" size="100,100" type="eclipse" lineSize="2" fillColor="#ff000000"/>
+    <component id="n4" name="n4" src="k4dpa" pkg="tpqhr3qp" xy="196,97"/>
+  </displayList>
+</component>

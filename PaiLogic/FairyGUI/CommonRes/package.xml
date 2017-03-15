@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tpqhr3qp" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="ur6w2" name="Res" folder=""/>
+    <image id="ur6w4" name="StampBotApproved" folder="ur6w2" qualityOption="source" file="ur6w4.png" size="75,65" exported="true"/>
+    <image id="ur6w5" name="StampBotDenied" folder="ur6w2" qualityOption="source" file="ur6w5.png" size="75,65" exported="true"/>
+    <folder id="ur6w6" name="Components" folder=""/>
+    <component id="ur6w8" name="Button_Confirm" folder="ur6w6" file="ur6w8.xml" exported="true"/>
+    <component id="k4dpa" name="Button_Close" folder="ur6w6" file="k4dpa.xml" exported="true"/>
+  </resources>
+  <publish name="CommonRes"/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400" opaque="false">
+  <displayList>
+    <graph id="n1" name="n1" xy="0,72" size="400,284" type="rect" lineColor="#ff333333" fillColor="#ff333333"/>
+    <component id="n0" name="n0" src="ur6w8" pkg="tpqhr3qp" xy="156,266"/>
+    <component id="n2" name="n2" src="k4dpa" pkg="tpqhr3qp" xy="196,79"/>
+  </displayList>
+</component>

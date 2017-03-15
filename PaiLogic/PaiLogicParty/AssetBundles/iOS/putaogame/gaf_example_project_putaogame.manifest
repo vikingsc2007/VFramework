@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1994548957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af8b9c4ae28b6bad94c8bcb6960787bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4ad5ff538346fb94686377e8faf8a18f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1730d0b8751ac9e44b6303c6b7703fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b503eb86db13f54cb46640b6e6c8f0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35ee4e1a8d120f445820e3af68048d11, type: 3}
+- Class: 114
+  Script: {fileID: -765628799, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: -736414528, guid: 86057e0c3e6f68343894579d83be909f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1e7a18d8a495004b8341f79f186abe2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleRes/GAF/GAF_Example/demo2.prefab
+- Assets/AssetBundleRes/GAF/GAF_Example/Gun.prefab
+- Assets/AssetBundleRes/GAF/GAF_Example/RedRobot.prefab
+Dependencies: []

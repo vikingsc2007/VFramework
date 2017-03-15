@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="t77guuns" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="ur6w0" name="Wnd" folder=""/>
+    <folder id="ur6w1" name="Res" folder=""/>
+    <component id="ur6w2" name="LoginWnd" folder="ur6w0" file="ur6w2.xml" exported="true"/>
+    <component id="o1zp3" name="GameWnd" folder="ur6w0" file="o1zp3.xml" exported="true"/>
+    <component id="o1zp5" name="MainWnd" folder="ur6w0" file="o1zp5.xml" exported="true"/>
+  </resources>
+  <publish name="LoginWnd"/>
+</packageDescription>

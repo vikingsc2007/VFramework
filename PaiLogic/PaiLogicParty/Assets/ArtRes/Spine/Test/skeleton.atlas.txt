@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/chuiqi_01
+  rotate: false
+  xy: 410, 54
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+image/chuiqi_02
+  rotate: false
+  xy: 133, 2
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+image/chuiqi_03
+  rotate: false
+  xy: 824, 85
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+image/chuiqi_04
+  rotate: false
+  xy: 174, 13
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+image/chuiqi_05
+  rotate: false
+  xy: 824, 46
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+image/dian
+  rotate: false
+  xy: 580, 17
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+image/guide_arrow
+  rotate: false
+  xy: 290, 57
+  size: 118, 55
+  orig: 118, 55
+  offset: 0, 0
+  index: -1
+image/guide_click_down
+  rotate: true
+  xy: 722, 45
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+image/guide_click_up
+  rotate: true
+  xy: 866, 63
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+image/mouth
+  rotate: true
+  xy: 969, 86
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+image/mouth_02
+  rotate: false
+  xy: 681, 73
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+image/pingban
+  rotate: true
+  xy: 866, 149
+  size: 105, 141
+  orig: 105, 141
+  offset: 0, 0
+  index: -1
+image/pingban1
+  rotate: true
+  xy: 2, 15
+  size: 39, 129
+  orig: 39, 129
+  offset: 0, 0
+  index: -1
+image/ren
+  rotate: true
+  xy: 2, 56
+  size: 198, 286
+  orig: 198, 286
+  offset: 0, 0
+  index: -1
+image/turn_02
+  rotate: true
+  xy: 722, 132
+  size: 122, 142
+  orig: 122, 142
+  offset: 0, 0
+  index: -1
+image/turn_03
+  rotate: false
+  xy: 441, 115
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+image/turn_04
+  rotate: true
+  xy: 580, 118
+  size: 136, 140
+  orig: 136, 140
+  offset: 0, 0
+  index: -1
+image/turn_05
+  rotate: false
+  xy: 290, 114
+  size: 149, 140
+  orig: 149, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3471179449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fdd84c675e1753826a0da9c931a5785
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 66b6dff9262acfe7ab82551ce80b04a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 407b0d7de1956404aa6e661dcf8f636b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99a2ae4e033fc45dfa9ff40d81bcb63b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/ArtRes/UIPrefab/UILoginWnd.prefab
+- Assets/ArtRes/UIPrefab/UIGameWnd.prefab
+- Assets/ArtRes/UIPrefab/UIMainWnd.prefab
+Dependencies: []

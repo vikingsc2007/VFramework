@@ -1,0 +1,19 @@
+<config>
+  
+  <!--  包名等设置 -->
+  <certificate>
+     <device bundlename="com.putao.modou.cnhouse">
+        <codesign>"iPhone Developer: Jiaqing Zou (SC4FCXNH94)"</codesign>
+        <provisioning>"52e5f8aa-793f-4700-9437-532f2a95bb04"</provisioning>
+       </device>
+    <appstore bundlename="com.putao.modou.cn">
+      <codesign>"iPhone Distribution: Shanghai Putao Technology Co., Ltd. (C6SC3439YS)"</codesign>
+      <provisioning>"c57100a8-72c6-4f59-acbf-692c03137de1"</provisioning>
+    </appstore>
+    <firm bundlename="com.putao.modou.cnhouse">
+      <codesign>"iPhone Developer: Jiaqing Zou (SC4FCXNH94)"</codesign>
+      <provisioning>"44bfbebf-1777-44b4-a170-f9a35d24c594"</provisioning>
+    </firm>
+    </certificate>
+  
+</config>

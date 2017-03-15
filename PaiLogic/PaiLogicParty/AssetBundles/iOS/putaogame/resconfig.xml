@@ -1,0 +1,8 @@
+<config res_version="100">
+  <item name="db_example_project_putaogame" path="db_example_project_putaogame" hash="181e69651b8ab38219f62c8c8f7f9a81" size="161688" />
+  <item name="fairygui_commonres_project_putaogame" path="fairygui_commonres_project_putaogame" hash="2a5f9c999533b18fa3bd7a5b1644446" size="4581" />
+  <item name="fairygui_loginwnd_project_putaogame" path="fairygui_loginwnd_project_putaogame" hash="5d8eef985cf7834e1393624feb3b866" size="2000" />
+  <item name="gaf_example_project_putaogame" path="gaf_example_project_putaogame" hash="3becd3d240f89ce7268d684c12124980" size="5826396" />
+  <item name="uiprefab_project_putaogame" path="uiprefab_project_putaogame" hash="1f36c7c27385d4f95136f4ea6de0b59c" size="3193" />
+  <item name="putaogame" path="putaogame" hash="cdef6ea127c48b5f9356211d46c05474" size="1539" />
+</config>

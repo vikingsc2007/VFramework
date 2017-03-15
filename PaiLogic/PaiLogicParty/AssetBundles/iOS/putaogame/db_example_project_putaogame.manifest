@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2804383371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a42bce9c8713efe01d7455de06aa7b77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a32f418a3dae688189aad8a852d62b17
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5e7c451cf9aa4785b3d37746a669e33, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleRes/DragonBones/DB_Example/ubbie.prefab
+- Assets/AssetBundleRes/DragonBones/DB_Example/Swordsman.prefab
+Dependencies: []

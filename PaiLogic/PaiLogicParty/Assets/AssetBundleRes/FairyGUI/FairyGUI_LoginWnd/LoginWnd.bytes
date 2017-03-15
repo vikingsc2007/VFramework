@@ -1,0 +1,49 @@
+o1zp3.xml|493|<component size="400,400" opaque="false">
+  <displayList>
+    <graph id="n3" name="n3" xy="0,90" size="400,283" type="rect" lineColor="#ff333333" fillColor="#ff333333"/>
+    <graph id="n1" name="n1" xy="107,360" pivot="0.5,1" anchor="true" size="100,100" type="rect" corner="20"/>
+    <graph id="n2" name="n2" xy="284,249" size="100,100" type="eclipse" lineSize="2" fillColor="#ff000000"/>
+    <component id="n4" name="n4" src="k4dpa" pkg="tpqhr3qp" xy="196,97"/>
+  </displayList>
+</component>o1zp5.xml|348|<component size="400,400" opaque="false">
+  <displayList>
+    <graph id="n1" name="n1" xy="0,72" size="400,284" type="rect" lineColor="#ff333333" fillColor="#ff333333"/>
+    <component id="n0" name="n0" src="ur6w8" pkg="tpqhr3qp" xy="156,266"/>
+    <component id="n2" name="n2" src="k4dpa" pkg="tpqhr3qp" xy="196,79"/>
+  </displayList>
+</component>package.xml|325|<packageDescription id="t77guuns" name="LoginWnd">
+  <resources>
+    <component id="o1zp3" name="GameWnd" exported="true" size="400,400"/>
+    <component id="o1zp5" name="MainWnd" exported="true" size="400,400"/>
+    <component id="ur6w2" name="LoginWnd" exported="true" size="768,1024"/>
+  </resources>
+</packageDescription>ur6w2.xml|1374|<component size="768,1024" opaque="false">
+  <displayList>
+    <graph id="n1" name="n1" xy="0,0" size="768,1024" type="rect" corner="30"/>
+    <text id="n0" name="n0" xy="140,23" size="85,34" fontSize="30" color="#ff0000" strokeColor="#000000" text="AAAA"/>
+    <image id="n2" name="n2" src="ur6w4" pkg="tpqhr3qp" xy="26,75"/>
+    <image id="n3" name="n3" src="ur6w5" pkg="tpqhr3qp" xy="142,73"/>
+    <component id="n4" name="n4" src="ur6w8" pkg="tpqhr3qp" xy="290,73"/>
+    <graph id="n6" name="n6" xy="384,959" pivot="0.5,1" anchor="true" size="100,100" type="rect" fillColor="#ff00ff00"/>
+    <list id="n7" name="n7" xy="0,1024" pivot="0,1" anchor="true" size="768,66" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://tpqhr3qpur6w8" autoItemSize="false">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+  </displayList>
+  <transition name="t1" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="XY" target="n3" tween="true" startValue="142,73" endValue="146,208" duration="24"/>
+    <item time="24" type="XY" target="n3" tween="true" startValue="146,208" endValue="154,76" duration="24"/>
+  </transition>
+</component>

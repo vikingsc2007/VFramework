@@ -1,0 +1,27 @@
+{
+	"libs": [],
+	"frameworks":[],
+	"headerpaths": [],
+	"files": ["../../../../../PTUGame/PTGame/Plugins/iOS/KeychainItemWrapper.mm:-fno-objc-arc","../../../../../../KeychainAccess.plist","../../../../../PTUGame/PTWeiDu/Plugins/iOS/PutaoAssist.framework"],
+	"folders": [],
+	"excludes": ["^.*.meta$"],
+	"compiler_flags": [],
+	"linker_flags": [],
+	"embed_binaries": ["PutaoAssist.framework"],
+    "plist": {
+         "dicType":[
+            {
+                 "key":"UIRequiresFullScreen",
+                 "value":true
+            }
+          ],
+    	 "urltype" : [
+            {
+                "role": "Putao",
+                "name" : "com.putao.hellocode",
+                "schemes":["PTHelloCode"]
+            }
+        ]
+    }
+
+}

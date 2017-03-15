@@ -1,0 +1,66 @@
+<config  defaulttype="test">
+
+  <!-- app store版本：C6SC3439YS.putao    firm测试版本： W395RC57B2.putao  -->
+  <deviceId  default="test" > 
+     <dev keychain="W395RC57B2.putao"/>
+     <test keychain="W395RC57B2.putao"/>
+     <online keychain="C6SC3439YS.putao"/>
+  </deviceId>
+
+
+   <playinfo enable="true" default="test" >
+    <dev url="http://api-toycenter.ptdev.cn/v1/device/get"/>
+    <test url="http://api-toycenter-test.ptdev.cn/v1/device/get"/>
+    <online url="http://api-toycenter.putao.com/v1/device/get"/>
+  </playinfo>
+
+  <wdinfopusher default="test" signkey="8003" gameid="8000">
+    <dev url="http://api-toycenter.ptdev.cn/v1/share"></dev>
+    <test url="http://api-toycenter-test.ptdev.cn/v1/share"></test>
+    <online url="http://api-toycenter.putao.com/v1/share"></online>
+  </wdinfopusher>
+
+  <!-- 动态获取纬度提示信息 -->
+  <wdinfo default="test">
+    <dev url="http://api-toycenter.ptdev.cn"></dev>
+    <test url="http://api-toycenter-test.ptdev.cn"></test>
+    <online url="http://api-toycenter.putao.com"></online>
+  </wdinfo>
+
+  <gpush default="test" controlThemeId="8800">
+   <dev url="http://10.1.11.171:10090/mqtt_server"  key="1234567890" token="asdfghjkl"></dev>
+   <test url="http://push-gateway-test.putaocloud.com/mqtt_server"  key="47bbc691175b11e69411005056c00000" token="c4d7d7870fde40f4b054459bf1e72957"></test>
+   <online url="http://push-gateway.putaocloud.com/mqtt_server"  key="47bbc691175b11e69411005056c00000" token="c4d7d7870fde40f4b054459bf1e72957"></online>
+  </gpush>
+
+ <!-- 开发环境：http://api-toycenter.ptdev.cn/ -->
+	<!-- 测试环境：http://api-toycenter-test.ptdev.cn/-->
+	<!-- 生产环境：http://api-toycenter.putao.com -->
+	<!-- 孩子账号相关：http://wiki.putao.io/ptassist-->
+  <assist default="test" gameid="8000" showbtn="false">
+  	<dev url="http://api-toycenter.ptdev.cn/user/account/login"
+  	child_secret_key="5d3c8eac0b0c40278fa5c18afcb823b1" 
+  	qrcode_public_key="79803b5c33204b7a8062242c4841d504"
+  	qrcode_secret_key="c56d4991aeaa4a48ab436a85cca33e7d"
+  	></dev>
+        <test url="http://api-toycenter-test.ptdev.cn/user/account/login"
+    	child_secret_key="5d3c8eac0b0c40278fa5c18afcb823b1" 
+  	qrcode_public_key="79803b5c33204b7a8062242c4841d504"
+  	qrcode_secret_key="c56d4991aeaa4a48ab436a85cca33e7d"
+    ></test>
+
+  	<online url="http://api-toycenter.putao.com/user/account/login"
+  	  	child_secret_key="5d3c8eac0b0c40278fa5c18afcb823b1" 
+  	qrcode_public_key="79803b5c33204b7a8062242c4841d504"
+  	qrcode_secret_key="c56d4991aeaa4a48ab436a85cca33e7d"
+  	></online>
+  </assist>
+
+  <hotupdate default="test" appStoreUrl="https://itunes.apple.com/cn/app/ha-ni-hai-yang/id1071378888?mt=8">
+  	<dev url="http://api-toycenter.ptdev.cn/v1/res"  gameid="30000"  secretKey="66dVmjK0m4UEqytJymcghAp6" />
+  	<test url="http://api-toycenter.test.ptdev.cn/v1/res"  gameid="30000"  secretKey="66dVmjK0m4UEqytJymcghAp6" />
+  	<online url="http://api-toycenter.putao.cn/v1/res"  gameid="30000" secretKey="66dVmjK0m4UEqytJymcghAp6" />
+  </hotupdate>
+
+
+</config>
